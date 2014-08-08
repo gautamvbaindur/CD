@@ -1,0 +1,4 @@
+D:\Continous Delivery\ContinousDelivery\MathLibrary\bin\Debug\MathLibrary.dll
+D:\Continous Delivery\ContinousDelivery\MathLibrary\bin\Debug\MathLibrary.pdb
+D:\Continous Delivery\ContinousDelivery\MathLibrary\obj\Debug\MathLibrary.dll
+D:\Continous Delivery\ContinousDelivery\MathLibrary\obj\Debug\MathLibrary.pdb
